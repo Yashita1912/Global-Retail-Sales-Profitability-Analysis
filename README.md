@@ -31,6 +31,3 @@ The dataset contains over 51,000 retail transactions across multiple countries a
 - Tableau Workbook (.twbx)
 - Dataset (.xlsx)
 
-## Project Status
-
-This project will continue to be refined with improved dashboard design, additional insights, dashboard previews, and an interactive Tableau Public version.
